@@ -1,0 +1,23 @@
+{
+  "name": "26.4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asmagala/26.4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asmagala/26.4/issues"
+  },
+  "homepage": "https://github.com/asmagala/26.4#readme",
+  "dependencies": {
+    "electron": "5.0.6"
+  }
+}
